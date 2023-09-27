@@ -13,4 +13,7 @@ public class Student2 {
             public int getRollno(){
         return rollno;
             }
+
+
 }
+
